@@ -1,12 +1,15 @@
+
 {
   "name": "bug",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "css-loader": "0.28.10",
-    "react-redux": "^5.0.7",
-    "extract-text-webpack-plugin": "^4.0.0-alpha.0",
-    "html-webpack-plugin": "webpack-contrib/html-webpack-plugin"
+    "extract-text-webpack-plugin": "4.0.0-alpha.0",
+    "html-webpack-plugin": "webpack-contrib/html-webpack-plugin",
+    "react": "16.2.0",
+    "react-redux": "5.0.7",
+    "redux": "3.7.2"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.40",
